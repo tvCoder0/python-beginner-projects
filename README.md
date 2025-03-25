@@ -750,92 +750,7 @@
   </tr>
   <tr>
     <td align="center">
-        <a href="https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/scrap-ycombinator">
-            <sub><b>scrap-ycombinator</b></sub>
-        </a>
-     </td>
-    <td align="center">
-        <a href="https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/takeImage">
-            <sub><b>takeImage</b></sub>
-        </a>
-     </td>
-    <td align="center">
-        <a href="https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/web-crawler(movie%20extract)">
-            <sub><b>web-crawler(movie extract)</b></sub>
-        </a>
-     </td>
-    <td align="center">
-        <a href="https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/what-for-dinner">
-            <sub><b>what-for-dinner</b></sub>
-        </a>
-     </td>
-    <tr>
-
-<td align="center">
-        <a href="https://github.com/xlo-u/python-beginner-projects/tree/main/projects/Calculate%20Age">
-            <sub><b>Calculate Age</b></sub>
-        </a>
-</td>
-  </tr>
-</table>
-
-
-## Run these projects online :
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Mrinank-Bhowmick/python-beginner-projects.git)
-
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/Mrinank-Bhowmick/python-beginner-projects.svg)](https://starchart.cc/Mrinank-Bhowmick/python-beginner-projects)
-
-
-
-<h1> Contributors </h1>
-
-<!-- readme: contributors -start -->
-<table>
-<tr>
-    <td align="center">
-        <a href="https://github.com/Mrinank-Bhowmick">
-            <img src="https://avatars.githubusercontent.com/u/77621953?v=4" width="100;" alt="Mrinank-Bhowmick"/>
-            <br />
-            <sub><b>Mrinank Bhowmick</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/lint-action">
-            <img src="https://avatars.githubusercontent.com/u/59283862?v=4" width="100;" alt="lint-action"/>
-            <br />
-            <sub><b>Lint Action</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/ibra-kdbra">
-            <img src="https://avatars.githubusercontent.com/u/135609275?v=4" width="100;" alt="ibra-kdbra"/>
-            <br />
-            <sub><b>Ibra-kdbra</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/PythonicBoat">
-            <img src="https://avatars.githubusercontent.com/u/68675629?v=4" width="100;" alt="PythonicBoat"/>
-            <br />
-            <sub><b>Yashvardhan Singh</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/kanchanrai7">
-            <img src="https://avatars.githubusercontent.com/u/114416916?v=4" width="100;" alt="kanchanrai7"/>
-            <br />
-            <sub><b>Kanchan Rai</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/TERNION-1121">
-            <img src="https://avatars.githubusercontent.com/u/97667653?v=4" width="100;" alt="TERNION-1121"/>
-            <br />
-            <sub><b>Vikrant Singh Bhadouriya</b></sub>
+</b></sub>
         </a>
     </td></tr>
 <tr>
@@ -1230,30 +1145,7 @@
         <a href="https://github.com/Subha-5">
             <img src="https://avatars.githubusercontent.com/u/97968307?v=4" width="100;" alt="Subha-5"/>
             <br />
-            <sub><b>Subha Sadhu</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/u749929">
-            <img src="https://avatars.githubusercontent.com/u/141889486?v=4" width="100;" alt="u749929"/>
-            <br />
-            <sub><b>U749929</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Adrija-G">
-            <img src="https://avatars.githubusercontent.com/u/108509197?v=4" width="100;" alt="Adrija-G"/>
-            <br />
-            <sub><b>Adrija</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/advik-student-dev">
-            <img src="https://avatars.githubusercontent.com/u/70201060?v=4" width="100;" alt="advik-student-dev"/>
-            <br />
-            <sub><b>Advik Sharma</b></sub>
-        </a>
-    </td>
+
     <td align="center">
         <a href="https://github.com/tamojeetK">
             <img src="https://avatars.githubusercontent.com/u/89387048?v=4" width="100;" alt="tamojeetK"/>
